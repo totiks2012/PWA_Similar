@@ -1,3 +1,8 @@
+23_06_2025 
+Update -- Обновление
+В этом обновлении улучшил отзывчивость нажатия кнопок, до этого они срабптывали нв второе нажатие, тепь достаточно одного 
+нажатия кнопки.
+
 # PWA_Similar
 this is a bookmark manager written in tcl/tk, it can also create a desktop file with an icon for the bookmark if needed
 # Менеджер Закладок PWA Similar Manager
